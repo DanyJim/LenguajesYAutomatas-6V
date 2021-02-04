@@ -1,0 +1,14 @@
+C:\Users\djime\source\repos\Lexico0\bin\Debug\Lexico0.exe.config
+C:\Users\djime\source\repos\Lexico0\bin\Debug\Lexico0.exe
+C:\Users\djime\source\repos\Lexico0\bin\Debug\Lexico0.pdb
+C:\Users\djime\source\repos\Lexico0\obj\Debug\Lexico0.csprojAssemblyReference.cache
+C:\Users\djime\source\repos\Lexico0\obj\Debug\Lexico0.csproj.CoreCompileInputs.cache
+C:\Users\djime\source\repos\Lexico0\obj\Debug\Lexico0.exe
+C:\Users\djime\source\repos\Lexico0\obj\Debug\Lexico0.pdb
+D:\Dany\CuartoSemestreITQ\ITQ4_LenguajesYAutomatas\Lexico0\bin\Debug\Lexico0.exe.config
+D:\Dany\CuartoSemestreITQ\ITQ4_LenguajesYAutomatas\Lexico0\bin\Debug\Lexico0.exe
+D:\Dany\CuartoSemestreITQ\ITQ4_LenguajesYAutomatas\Lexico0\bin\Debug\Lexico0.pdb
+D:\Dany\CuartoSemestreITQ\ITQ4_LenguajesYAutomatas\Lexico0\obj\Debug\Lexico0.csprojAssemblyReference.cache
+D:\Dany\CuartoSemestreITQ\ITQ4_LenguajesYAutomatas\Lexico0\obj\Debug\Lexico0.csproj.CoreCompileInputs.cache
+D:\Dany\CuartoSemestreITQ\ITQ4_LenguajesYAutomatas\Lexico0\obj\Debug\Lexico0.exe
+D:\Dany\CuartoSemestreITQ\ITQ4_LenguajesYAutomatas\Lexico0\obj\Debug\Lexico0.pdb
