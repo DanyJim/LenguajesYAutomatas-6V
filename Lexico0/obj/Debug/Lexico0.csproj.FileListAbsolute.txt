@@ -12,3 +12,10 @@ D:\Dany\CuartoSemestreITQ\ITQ4_LenguajesYAutomatas\Lexico0\obj\Debug\Lexico0.csp
 D:\Dany\CuartoSemestreITQ\ITQ4_LenguajesYAutomatas\Lexico0\obj\Debug\Lexico0.csproj.CoreCompileInputs.cache
 D:\Dany\CuartoSemestreITQ\ITQ4_LenguajesYAutomatas\Lexico0\obj\Debug\Lexico0.exe
 D:\Dany\CuartoSemestreITQ\ITQ4_LenguajesYAutomatas\Lexico0\obj\Debug\Lexico0.pdb
+C:\Users\djime\Documents\GitHub\LenguajesYAutomatas-6V\Lexico0\bin\Debug\Lexico0.exe.config
+C:\Users\djime\Documents\GitHub\LenguajesYAutomatas-6V\Lexico0\bin\Debug\Lexico0.exe
+C:\Users\djime\Documents\GitHub\LenguajesYAutomatas-6V\Lexico0\bin\Debug\Lexico0.pdb
+C:\Users\djime\Documents\GitHub\LenguajesYAutomatas-6V\Lexico0\obj\Debug\Lexico0.csprojAssemblyReference.cache
+C:\Users\djime\Documents\GitHub\LenguajesYAutomatas-6V\Lexico0\obj\Debug\Lexico0.csproj.CoreCompileInputs.cache
+C:\Users\djime\Documents\GitHub\LenguajesYAutomatas-6V\Lexico0\obj\Debug\Lexico0.exe
+C:\Users\djime\Documents\GitHub\LenguajesYAutomatas-6V\Lexico0\obj\Debug\Lexico0.pdb

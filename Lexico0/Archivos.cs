@@ -46,6 +46,14 @@ namespace Lexico0
                 Console.Write((char)archivo.Read());
             }
         }
+        public void Display2()
+        {
+            while (!archivo.EndOfStream)
+            {
+                Console.Write((char)archivo.Peek());
+                archivo.Read();
+            }
+        }
         public void Load()
         {
             while (!archivo.EndOfStream)
@@ -61,6 +69,24 @@ namespace Lexico0
                 if (char.IsLetter(c = (char)archivo.Read()))
                 {
                     bitacora.Write((char)(c+1));
+                }
+                else
+                {
+                    bitacora.Write(c);
+                }
+            }
+        }
+        public void Encrypt(char letra)
+        {
+            while (!archivo.EndOfStream)
+            {
+                char c;
+                if (char.IsLetter(c = (char)archivo.Read()))
+                {
+                    if(c=='a' || c=='e' || c == 'i' || c == 'o' || c == 'u' || c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U')
+                        bitacora.Write((char)(c=letra));
+                    else
+                        bitacora.Write((char)(c));
                 }
                 else
                 {
@@ -85,7 +111,33 @@ namespace Lexico0
                 }
                 bitacora.WriteLine("palabra = " + palabra);
             }
+        }
+        public void Token()
+        {
+            char c;
+            string palabra = "";
 
+            while (char.IsWhiteSpace(c = (char)archivo.Read()))
+            {
+            }
+            palabra += c; //palabra = palabra + c;
+            if (char.IsLetter(c))
+            {
+                while (char.IsLetter(c = (char)archivo.Peek()))
+                {
+                    palabra += c;
+                    archivo.Read();
+                }
+            }
+            else if (char.IsDigit(c))
+            {
+                while (char.IsDigit(c = (char)archivo.Peek()))
+                {
+                    palabra += c;
+                    archivo.Read();
+                }
+            }
+            bitacora.WriteLine("token = " + palabra);
         }
         public bool FinArchivo()
         {

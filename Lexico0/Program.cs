@@ -14,10 +14,11 @@ namespace Lexico0
             {
                 using (Archivos a = new Archivos())
                 {
-                    while (!a.FinArchivo())
+                    /*while (!a.FinArchivo())
                     {
-                        a.Palabra();
-                    }
+                        a.Token();
+                    }*/
+                    a.Encrypt('o');
                 }
             }
             catch(Exception e)
